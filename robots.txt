@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Venkimut.github.io/resources-8zlgg6/sitemap.xml
